@@ -1,0 +1,6 @@
+flask
+flask-pymongo
+bcrypt
+pyotp
+pyjwt
+dnspython
